@@ -1,4 +1,4 @@
 # Haridash-Demo
 This is my first repository git
 <br>
-Author-Haridash Yumnam
+Author-Haridash (hayainu)
